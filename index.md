@@ -9,7 +9,7 @@ title: Guillermo Ruiz Castillo | Cybersecurity & Consulting
 Bienvenido a mi espacio técnico. Aquí documento la evolución de mis proyectos, auditorías y laboratorios de seguridad.
 
 ### Sobre mí
-Estudiante en **TECNM e INFOTEC**, enfocado en la resiliencia digital y la seguridad por diseño. Especialista en la protección de activos críticos, hardening de infraestructuras y branding estratégico para creadores y empresas.
+Estudiante en Lab Mexia, TECNM e INFOTEC, bajo mentoría de Kyndryl (escisión de IBM), enfocado en la resiliencia digital y la seguridad por diseño. Especialista en la protección de activos críticos, hardening de infraestructuras y branding estratégico para creadores y empresas.
 
 ### Portafolio Profesional
 * [Descargar Portafolio: Ciberseguridad & Consulting (PDF)](/assets/docs/Guillermo_Ruiz_Cybersecurity_Consulting_Portfolio.pdf)
