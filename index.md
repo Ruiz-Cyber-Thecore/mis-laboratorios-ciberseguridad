@@ -41,5 +41,3 @@ Actualmente, potencio mis capacidades técnicas mediante el uso estratégico de 
 * **LinkedIn:** [Guillermo Ruiz Castillo](https://www.linkedin.com/in/guillermo-ruiz-castillo-15575922/)
 * **Correo Electrónico:** [thecoreconsultingmexico@gmail.com](mailto:thecoreconsultingmexico@gmail.com)
 * **Teléfono:** +52 442 549 1372
-* **Correo Electrónico:** [thecoreconsultingmexico@gmail.com](mailto:thecoreconsultingmexico@gmail.com)
-* **Teléfono:** +52 442 549 1372
