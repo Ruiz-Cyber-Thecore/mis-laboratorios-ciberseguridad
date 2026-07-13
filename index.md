@@ -18,7 +18,10 @@ Actualmente, potencio mis capacidades técnicas mediante el uso estratégico de 
 ### Educación y Certificaciones Vanguardistas
 * **TSU en Ciberseguridad** (En curso) con miras a profundizar en Ingeniería Telemática para la protección avanzada de telecomunicaciones.
 * **Certificación en la "Iniciativa de Seguridad y Competencias Digitales"** – LABMEXIA, impartida y respaldada por Kyndryl México, TECNM, INFOTEC, AMITI y el Gobierno de México.
-* **+114 Credenciales Profesionales** que avalan mis conocimientos en herramientas críticas del sector: Microsoft Defender XDR / Endpoints, Microsoft 365, AWS IAM, Amazon Security Operations y Google Security Operations.
+* **+114 Credenciales Profesionales** que avalan mis conocimientos en herramientas críticas del sector: Microsoft Defender XDR / Endpoints, Microsoft 365, AWS IAM, Amazon Security Operations y Google Security Operations. 
+  
+  [![Credly Badges](https://img.shields.io/badge/Ver_Mis_Badges-Credly-orange?style=flat-square&logo=credly&logoColor=white)](https://www.linkedin.com/redirect?url=https%3A%2F%2Fwww.credly.com%2Fusers%2Fguillermo-ruiz-castillo%2Fbadges)
+
 * **Modelos Comerciales del SOC & Laboratorios Activos:** Profundo conocimiento teórico-práctico documentando metodologías en entornos reales como *Let's Defend* y *Hack The Box*.
 
 ### Portafolio Profesional
@@ -36,5 +39,7 @@ Actualmente, potencio mis capacidades técnicas mediante el uso estratégico de 
 **Contacto & Conectividad (Trabajo Remoto desde México):**
 * **GitHub:** [Ruiz-Cyber-Thecore](https://github.com/Ruiz-Cyber-Thecore) _(Repositorios y proyectos activos en constante actualización)_
 * **LinkedIn:** [Guillermo Ruiz Castillo](https://www.linkedin.com/in/guillermo-ruiz-castillo-15575922/)
+* **Correo Electrónico:** [thecoreconsultingmexico@gmail.com](mailto:thecoreconsultingmexico@gmail.com)
+* **Teléfono:** +52 442 549 1372
 * **Correo Electrónico:** [thecoreconsultingmexico@gmail.com](mailto:thecoreconsultingmexico@gmail.com)
 * **Teléfono:** +52 442 549 1372
