@@ -11,7 +11,7 @@ Bienvenido a mi espacio técnico. Aquí documento la evolución de mis proyectos
 ### Sobre mí
 Soy un **perfil híbrido y generalista** enfocado en la resiliencia digital, la automatización avanzada y la seguridad por diseño. Con una sólida trayectoria en el desarrollo web y de marca, me especializo en la interconexión de microservicios y APIs, optimizando infraestructuras bajo la filosofía *always free* para garantizar la máxima economía, calidad y seguridad operativa. 
 
-Mediante el desarrollo de extensiones personalizadas y automatizaciones en Google Apps Script, diseño flujos que mitigan costos drásticamente para marcas personales y negocios, reduciendo la dependencia financiera de plataformas tradicionales. 
+Mediante el desarrollo de extensiones personalizadas and automatizaciones en Google Apps Script, diseño flujos que mitigan costos drásticamente para marcas personales y negocios, reduciendo la dependencia financiera de plataformas tradicionales. 
 
 Actualmente, potencio mis capacidades técnicas mediante el uso estratégico de IA Generativa para la aceleración de código, traducción en tiempo real, automatización de reportes, triaje de infraestructuras y detección temprana de alertas/logs.
 
@@ -20,7 +20,7 @@ Actualmente, potencio mis capacidades técnicas mediante el uso estratégico de 
 * **Certificación en la "Iniciativa de Seguridad y Competencias Digitales"** – LABMEXIA, impartida y respaldada por Kyndryl México, TECNM, INFOTEC, AMITI y el Gobierno de México.
 * **+114 Credenciales Profesionales** que avalan mis conocimientos en herramientas críticas del sector: Microsoft Defender XDR / Endpoints, Microsoft 365, AWS IAM, Amazon Security Operations y Google Security Operations. 
   
-  [![Credly Badges]([https://www.credly.com/users/guillermo-ruiz-castillo])
+  [![Credly Badges](https://img.shields.io/badge/Ver_Mis_Badges-Credly-orange?style=flat-square&logo=credly&logoColor=white)](https://www.credly.com/users/guillermo-ruiz-castillo/badges)
 
 * **Modelos Comerciales del SOC & Laboratorios Activos:** Profundo conocimiento teórico-práctico documentando metodologías en entornos reales como *Let's Defend* y *Hack The Box*.
 
