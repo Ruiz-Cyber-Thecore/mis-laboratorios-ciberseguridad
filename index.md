@@ -20,7 +20,7 @@ Actualmente, potencio mis capacidades técnicas mediante el uso estratégico de 
 * **Certificación en la "Iniciativa de Seguridad y Competencias Digitales"** – LABMEXIA, impartida y respaldada por Kyndryl México, TECNM, INFOTEC, AMITI y el Gobierno de México.
 * **+114 Credenciales Profesionales** que avalan mis conocimientos en herramientas críticas del sector: Microsoft Defender XDR / Endpoints, Microsoft 365, AWS IAM, Amazon Security Operations y Google Security Operations. 
   
-  [![Credly Badges](https://img.shields.io/badge/Ver_Mis_Badges-Credly-orange?style=flat-square&logo=credly&logoColor=white)](https://www.linkedin.com/redirect?url=https%3A%2F%2Fwww.credly.com%2Fusers%2Fguillermo-ruiz-castillo%2Fbadges)
+  [![Credly Badges]([https://www.credly.com/users/guillermo-ruiz-castillo])
 
 * **Modelos Comerciales del SOC & Laboratorios Activos:** Profundo conocimiento teórico-práctico documentando metodologías en entornos reales como *Let's Defend* y *Hack The Box*.
 
