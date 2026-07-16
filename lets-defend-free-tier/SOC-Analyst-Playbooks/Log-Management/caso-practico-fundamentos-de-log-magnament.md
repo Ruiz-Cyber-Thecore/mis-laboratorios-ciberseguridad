@@ -28,3 +28,6 @@ Este documento detalla la metodología de resolución para el módulo introducto
     *   La IP de destino es la IP pública externa de nuestra organización (`3.134.39.220`) en el puerto efímero de retorno `52567`.
 *   **Clasificación del Log:** El sistema clasifica de forma inteligente este evento por su protocolo de capa de aplicación y no solo por la capa de red.
 *   **Respuesta:** `DNS`
+---
+
+📥 **Descarga Ejecutiva:** Para una visualización ejecutiva, formal y con mis datos de contacto, puedes descargar mi [Cuaderno de Analista de SOC (PDF)](../../assets/docs/Cuaderno_SOC_Guillermo_Ruiz.pdf).
