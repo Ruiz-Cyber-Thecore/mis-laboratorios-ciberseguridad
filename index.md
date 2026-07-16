@@ -11,7 +11,7 @@ Bienvenido a mi espacio técnico. Aquí documento la evolución de mis proyectos
 ### Sobre mí
 Soy un **perfil híbrido y generalista** enfocado en la resiliencia digital, la automatización avanzada y la seguridad por diseño. Con una sólida trayectoria en el desarrollo web y de marca, me especializo en la interconexión de microservicios y APIs, optimizando infraestructuras bajo la filosofía *always free* para garantizar la máxima economía, calidad y seguridad operativa. 
 
-Mediante el desarrollo de extensiones personalizadas and automatizaciones en Google Apps Script, diseño flujos que mitigan costos drásticamente para marcas personales y negocios, reduciendo la dependencia financiera de plataformas tradicionales. 
+Mediante el desarrollo de extensiones personalizadas y automatizaciones en Google Apps Script, diseño flujos que mitigan costos drásticamente para marcas personales y negocios, reduciendo la dependencia financiera de plataformas tradicionales. 
 
 Actualmente, potencio mis capacidades técnicas mediante el uso estratégico de IA Generativa para la aceleración de código, traducción en tiempo real, automatización de reportes, triaje de infraestructuras y detección temprana de alertas/logs.
 
@@ -24,8 +24,9 @@ Actualmente, potencio mis capacidades técnicas mediante el uso estratégico de 
 
 * **Modelos Comerciales del SOC & Laboratorios Activos:** Profundo conocimiento teórico-práctico documentando metodologías en entornos reales como *Let's Defend* y *Hack The Box*.
 
-### Portafolio Profesional
+### Portafolio Profesional & Casos Prácticos
 * [Descargar Portafolio: Ciberseguridad & Consulting (PDF)](/assets/docs/Guillermo_Ruiz_Cybersecurity_Consulting_Portfolio.pdf)
+* [Descargar Cuaderno de Analista de SOC - Triage de Logs (PDF)](/assets/docs/Cuaderno_SOC_Guillermo_Ruiz.pdf)
 
 ### Servicios y Áreas de Especialización
 * **Custom Apps & Bespoke Infrastructure:** Diseño y desarrollo de aplicaciones a medida e infraestructuras robustas, adaptadas 100% a las necesidades operativas del negocio y escaladas de manera eficiente.
