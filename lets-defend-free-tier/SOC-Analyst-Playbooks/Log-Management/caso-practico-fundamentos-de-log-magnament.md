@@ -31,5 +31,5 @@ Este documento detalla la metodología de resolución para el módulo introducto
 ---
 
 📥 **Recursos Adicionales:**
-*   [Descargar mi Cuaderno de Analista de SOC (PDF)](../assets/docs/Cuaderno_SOC_Guillermo_Ruiz.pdf)
-*   [volver al Inicio / Portafolio Principal](../)
+*   [Descargar mi Cuaderno de Analista de SOC (PDF)](../../../assets/docs/Cuaderno_SOC_Guillermo_Ruiz.pdf)
+*   [Volver al Inicio / Portafolio Principal](../../../)
