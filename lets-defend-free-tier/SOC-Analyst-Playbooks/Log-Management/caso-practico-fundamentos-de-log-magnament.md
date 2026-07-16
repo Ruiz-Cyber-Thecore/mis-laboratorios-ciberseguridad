@@ -30,4 +30,6 @@ Este documento detalla la metodología de resolución para el módulo introducto
 *   **Respuesta:** `DNS`
 ---
 
-📥 **Descarga Ejecutiva:** Para una visualización ejecutiva, formal y con mis datos de contacto, puedes descargar mi [Cuaderno de Analista de SOC (PDF)](../assets/docs/Cuaderno_SOC_Guillermo_Ruiz.pdf).
+📥 **Recursos Adicionales:**
+*   [Descargar mi Cuaderno de Analista de SOC (PDF)](../assets/docs/Cuaderno_SOC_Guillermo_Ruiz.pdf)
+*   [volver al Inicio / Portafolio Principal](../)
