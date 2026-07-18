@@ -27,7 +27,7 @@ Actualmente, potencio mis capacidades técnicas mediante el uso estratégico de 
 ### Portafolio Profesional & Casos Prácticos
 * [Descargar Portafolio: Ciberseguridad & Consulting (PDF)](/assets/docs/Guillermo_Ruiz_Cybersecurity_Consulting_Portfolio.pdf)[cite: 1]
 * [Descargar Cuaderno de Analista de SOC - Triage de Logs (PDF)](/assets/docs/Cuaderno_SOC_Guillermo_Ruiz.pdf)[cite: 1]
-* [**[NUEVO]** Descargar Reporte Técnico: Telemetría y Resiliencia en Redes Degradadas / FUP (PDF)](/assets/docs/Reporte_Resiliencia_Telemetria_Guillermo_Ruiz.pdf)
+* [**[Descargar Reporte Técnico: Telemetría y Resiliencia en Redes Degradadas / Fub pdf](./assets/docs/Reporte_Resiliencia_Red_Degradadas.pdf)
 * [Revisar Repositorio Interactivo del Laboratorio (GitHub)](./network-resilience-labs/README.md)
 
 ### Servicios y Áreas de Especialización
