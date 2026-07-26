@@ -3,8 +3,13 @@ import json
 import os
 import datetime
 import sys
+import subprocess
+import warnings
 
-# Configuración
+# Suprimir advertencia de SSL de urllib3
+warnings.filterwarnings("ignore", category=UserWarning, module="urllib3")
+
+# --- CONFIGURACIÓN ---
 MODELO = "cyber-copilot"
 URL_API = "http://localhost:11434/api/generate"
 TIMEOUT_SEGUNDOS = 120
@@ -18,6 +23,23 @@ ESTRUCTURA:
 3. CÓDIGO CORREGIDO Y SUGERENCIAS DE MITIGACIÓN.
 NO RESPONDAS CON SALUDOS, NI PREGUNTAS, NI INTRODUCCIONES. SÉ DIRECTO Y TÉCNICO."""
 
+# --- MÓDULO DE AUTO-MANTENIMIENTO ---
+def pre_flight_check():
+    print("--- 🚀 PRE-FLIGHT CHECK (Orquestador) ---")
+    try:
+        subprocess.run(["git", "pull", "origin", "main"], capture_output=True)
+        print("[+] Repositorio sincronizado.")
+    except:
+        print("[!] No se pudo sincronizar git.")
+    if os.path.exists("requirements.txt"):
+        try:
+            subprocess.run([sys.executable, "-m", "pip", "install", "-q", "-r", "requirements.txt"], check=True)
+            print("[+] Dependencias validadas.")
+        except:
+            print("[!] Error al validar dependencias.")
+    print("---------------------------\n")
+
+# --- LÓGICA DE AUDITORÍA ---
 def consultar_ia(texto_usuario):
     payload = {
         "model": MODELO,
@@ -32,6 +54,7 @@ def consultar_ia(texto_usuario):
         return f"Error de conexión con Ollama: {e}"
 
 def menu():
+    pre_flight_check()
     print("\n" + "="*50)
     print("   🤖 ORQUESTADOR DE CIBERSEGURIDAD - MODO AUDITOR")
     print("="*50)
