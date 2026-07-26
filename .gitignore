@@ -1,3 +1,6 @@
 reporte_*.txt
 __pycache__/
 *.log
+.venv/
+__pycache__/
+.DS_Store
