@@ -23,8 +23,25 @@ El proyecto opera bajo una arquitectura de microservicios locales independientes
 5.  **Auditor de Cumplimiento (GRC):** Estándares ISO 27001 / NIST.
 6.  **Auditor de Infraestructura (IaC):** Hardening de Docker/Kubernetes.
 
-## 🚀 Guía de Inicialización
-(Aquí mantienes tus pasos 1, 2, 3 y 4 de tu versión original, son perfectos).
+---
 
-## 📊 Historial y Evidencias
-El sistema implementa un módulo de cumplimiento normativo automatizado, indexando reportes por timestamp, ideal para bitácoras académicas (INFOTEC/Lab-MexIA).
+## 🚀 Guía de Inicialización y Automatización
+
+### 🔄 Protocolo SOP: Sincronización Multi-Entorno (Mac 1 / Mac 2)
+Para garantizar la integridad del entorno y evitar conflictos al alternar entre múltiples dispositivos macOS, se ejecuta la siguiente secuencia de inspección visual previo a cualquier despliegue:
+
+```bash
+# 1. Navegar al repositorio del laboratorio
+cd ~/Documents/mis-laboratorios-ciberseguridad
+
+# 2. Consultar cambios lejanos en GitHub sin alteración local
+git fetch
+
+# 3. Inspección visual del historial de commits recientes
+git log --graph --oneline --all -n 5
+
+# 4. Confirmar que el directorio de trabajo local esté limpio
+git status
+
+# 5. Ejecutar la automatización unificada
+lab
