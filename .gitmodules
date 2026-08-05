@@ -1,0 +1,6 @@
+[submodule "Dual-Purpose-URL-Analytics-Reconnaissance-Tool"]
+	path = Dual-Purpose-URL-Analytics-Reconnaissance-Tool
+	url = https://github.com/Ruiz-Cyber-Thecore/Dual-Purpose-URL-Analytics-Reconnaissance-Tool.git
+[submodule "osint-url-analytics"]
+	path = osint-url-analytics
+	url = https://github.com/Ruiz-Cyber-Thecore/osint-url-analytics.git
