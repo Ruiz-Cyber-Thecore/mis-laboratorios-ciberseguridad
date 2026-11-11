@@ -1,15 +1,17 @@
 ---
 layout: default
-title: Guillermo Ruiz Castillo | Cybersecurity & Consulting
+title: Guillermo Ruiz Castillo | AI Solutions Architect | DevSecOps & Infrastructure Optimization Specialist
 ---
 
 # Guillermo Ruiz Castillo
-## Cybersecurity Analyst | Digital Strategist | The Core
+## AI Solutions Architect | DevSecOps & Infrastructure Optimization Specialist | Digital Strategist | The Core
 
 Bienvenido a mi espacio técnico. Aquí documento la evolución de mis proyectos, desarrollo de soluciones, auditorías y laboratorios de seguridad.
 
 ### Sobre mí
-Soy un **perfil híbrido y generalista** enfocado en la resiliencia digital, la automatización avanzada y la seguridad por diseño. Con una sólida trayectoria en el desarrollo web y de marca, me especializo en la interconexión de microservicios y APIs, optimizando infraestructuras bajo la filosofía *always free* para garantizar la máxima economía, calidad y seguridad operativa. 
+Soy un **perfil híbrido ** Con capacidad para diseñar arquitecturas resilientes, automatizar flujos con Python y reducir costos operativos hasta en un 80%.
+Egresado de la 1.ª Generación del Centro Público de Formación en Inteligencia Artificial (CPFIA) y ponente en la Biblioteca Vasconcelos
+Enfocado en la resiliencia digital, la automatización avanzada y la seguridad por diseño. Con una sólida trayectoria en el desarrollo web y de marca, me especializo en la interconexión de microservicios y APIs, optimizando infraestructuras bajo la filosofía *always free* para garantizar la máxima economía, calidad y seguridad operativa. 
 
 Mediante el desarrollo de extensiones personalizadas y automatizaciones en Google Apps Script, diseño flujos que mitigan costos drásticamente para marcas personales y negocios, reduciendo la dependencia financiera de plataformas tradicionales. 
 
